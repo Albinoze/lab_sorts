@@ -3,3 +3,6 @@
 /workspace.xml
 /*.o
 /*.txt
+/*.json
+/*.iml
+/*.xml
