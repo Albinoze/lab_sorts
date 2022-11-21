@@ -1,10 +1,10 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-/*.o
-/*.txt
-/*.json
-/*.iml
-/*.xml
+*.o
+*.txt
+*.json
+*.iml
+*.xml
 .vscode
 .idea
