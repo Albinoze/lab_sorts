@@ -6,3 +6,5 @@
 /*.json
 /*.iml
 /*.xml
+.vscode
+.idea
